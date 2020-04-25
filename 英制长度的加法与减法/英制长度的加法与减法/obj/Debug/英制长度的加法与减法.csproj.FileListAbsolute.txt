@@ -1,0 +1,13 @@
+D:\vs\英制长度的加法与减法\英制长度的加法与减法\bin\Debug\英制长度的加法与减法.exe.config
+D:\vs\英制长度的加法与减法\英制长度的加法与减法\bin\Debug\英制长度的加法与减法.exe
+D:\vs\英制长度的加法与减法\英制长度的加法与减法\bin\Debug\英制长度的加法与减法.pdb
+D:\vs\英制长度的加法与减法\英制长度的加法与减法\obj\Debug\英制长度的加法与减法.csprojResolveAssemblyReference.cache
+D:\vs\英制长度的加法与减法\英制长度的加法与减法\obj\Debug\英制长度的加法与减法.exe
+D:\vs\英制长度的加法与减法\英制长度的加法与减法\obj\Debug\英制长度的加法与减法.pdb
+D:\csharp考试\英制长度的加法与减法\英制长度的加法与减法\bin\Debug\英制长度的加法与减法.exe.config
+D:\csharp考试\英制长度的加法与减法\英制长度的加法与减法\bin\Debug\英制长度的加法与减法.exe
+D:\csharp考试\英制长度的加法与减法\英制长度的加法与减法\bin\Debug\英制长度的加法与减法.pdb
+D:\csharp考试\英制长度的加法与减法\英制长度的加法与减法\obj\Debug\英制长度的加法与减法.csprojAssemblyReference.cache
+D:\csharp考试\英制长度的加法与减法\英制长度的加法与减法\obj\Debug\英制长度的加法与减法.csproj.CoreCompileInputs.cache
+D:\csharp考试\英制长度的加法与减法\英制长度的加法与减法\obj\Debug\英制长度的加法与减法.exe
+D:\csharp考试\英制长度的加法与减法\英制长度的加法与减法\obj\Debug\英制长度的加法与减法.pdb

@@ -1,0 +1,6 @@
+c:\users\klaus ke\documents\visual studio 2012\Projects\H4-static\H4-static\bin\Debug\H4-static.exe.config
+C:\Users\Klaus Ke\Documents\Visual Studio 2012\Projects\H4-static\H4-static\obj\Debug\H4-static.csprojResolveAssemblyReference.cache
+C:\Users\Klaus Ke\Documents\Visual Studio 2012\Projects\H4-static\H4-static\bin\Debug\H4-static.exe
+C:\Users\Klaus Ke\Documents\Visual Studio 2012\Projects\H4-static\H4-static\bin\Debug\H4-static.pdb
+C:\Users\Klaus Ke\Documents\Visual Studio 2012\Projects\H4-static\H4-static\obj\Debug\H4-static.exe
+C:\Users\Klaus Ke\Documents\Visual Studio 2012\Projects\H4-static\H4-static\obj\Debug\H4-static.pdb

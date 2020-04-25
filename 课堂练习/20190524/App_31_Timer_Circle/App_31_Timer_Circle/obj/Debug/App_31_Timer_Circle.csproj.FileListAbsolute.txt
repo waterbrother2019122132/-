@@ -1,0 +1,22 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\bin\Debug\App_31_Timer_Circle.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\bin\Debug\App_31_Timer_Circle.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\bin\Debug\App_31_Timer_Circle.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\obj\Debug\App_31_Timer_Circle.csprojResolveAssemblyReference.cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\obj\Debug\App_31_Timer_Circle.Form1.resources
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\obj\Debug\App_31_Timer_Circle.Properties.Resources.resources
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\obj\Debug\App_31_Timer_Circle.csproj.GenerateResource.Cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\obj\Debug\App_31_Timer_Circle.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\obj\Debug\App_31_Timer_Circle.pdb
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\bin\Debug\App_31_Timer_Circle.exe.config
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\obj\Debug\App_31_Timer_Circle.exe
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\obj\Debug\App_31_Timer_Circle.pdb
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\bin\Debug\App_31_Timer_Circle.exe.config
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\bin\Debug\App_31_Timer_Circle.exe
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\bin\Debug\App_31_Timer_Circle.pdb
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\obj\Debug\App_31_Timer_Circle.csprojAssemblyReference.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\obj\Debug\App_31_Timer_Circle.Form1.resources
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\obj\Debug\App_31_Timer_Circle.Properties.Resources.resources
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\obj\Debug\App_31_Timer_Circle.csproj.GenerateResource.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\obj\Debug\App_31_Timer_Circle.csproj.CoreCompileInputs.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\obj\Debug\App_31_Timer_Circle.exe
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190524\App_31_Timer_Circle\App_31_Timer_Circle\obj\Debug\App_31_Timer_Circle.pdb

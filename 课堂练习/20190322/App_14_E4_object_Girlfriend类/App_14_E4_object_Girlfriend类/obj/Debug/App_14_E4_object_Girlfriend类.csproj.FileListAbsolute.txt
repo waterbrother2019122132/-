@@ -1,0 +1,6 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_14_E4_object_Girlfriend类\App_14_E4_object_Girlfriend类\bin\Debug\App_14_E4_object_Girlfriend类.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_14_E4_object_Girlfriend类\App_14_E4_object_Girlfriend类\bin\Debug\App_14_E4_object_Girlfriend类.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_14_E4_object_Girlfriend类\App_14_E4_object_Girlfriend类\bin\Debug\App_14_E4_object_Girlfriend类.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_14_E4_object_Girlfriend类\App_14_E4_object_Girlfriend类\obj\Debug\App_14_E4_object_Girlfriend类.csprojResolveAssemblyReference.cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_14_E4_object_Girlfriend类\App_14_E4_object_Girlfriend类\obj\Debug\App_14_E4_object_Girlfriend类.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_14_E4_object_Girlfriend类\App_14_E4_object_Girlfriend类\obj\Debug\App_14_E4_object_Girlfriend类.pdb

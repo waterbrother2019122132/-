@@ -1,0 +1,6 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190315\H2_hashtable\H2_hashtable\bin\Debug\H2_hashtable.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190315\H2_hashtable\H2_hashtable\bin\Debug\H2_hashtable.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190315\H2_hashtable\H2_hashtable\bin\Debug\H2_hashtable.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190315\H2_hashtable\H2_hashtable\obj\Debug\H2_hashtable.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190315\H2_hashtable\H2_hashtable\obj\Debug\H2_hashtable.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190315\H2_hashtable\H2_hashtable\obj\Debug\H2_hashtable.csprojResolveAssemblyReference.cache

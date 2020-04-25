@@ -1,0 +1,6 @@
+c:\users\klaus ke\documents\visual studio 2012\Projects\T-Teacher\T-Teacher\bin\Debug\T-Teacher.exe.config
+c:\users\klaus ke\documents\visual studio 2012\Projects\T-Teacher\T-Teacher\bin\Debug\T-Teacher.exe
+c:\users\klaus ke\documents\visual studio 2012\Projects\T-Teacher\T-Teacher\bin\Debug\T-Teacher.pdb
+c:\users\klaus ke\documents\visual studio 2012\Projects\T-Teacher\T-Teacher\obj\Debug\T-Teacher.csprojResolveAssemblyReference.cache
+c:\users\klaus ke\documents\visual studio 2012\Projects\T-Teacher\T-Teacher\obj\Debug\T-Teacher.exe
+c:\users\klaus ke\documents\visual studio 2012\Projects\T-Teacher\T-Teacher\obj\Debug\T-Teacher.pdb

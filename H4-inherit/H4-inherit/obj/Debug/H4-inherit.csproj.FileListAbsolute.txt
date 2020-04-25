@@ -1,0 +1,6 @@
+c:\users\klaus ke\documents\visual studio 2012\Projects\H4-inherit\H4-inherit\bin\Debug\H4-inherit.exe.config
+c:\users\klaus ke\documents\visual studio 2012\Projects\H4-inherit\H4-inherit\bin\Debug\H4-inherit.exe
+c:\users\klaus ke\documents\visual studio 2012\Projects\H4-inherit\H4-inherit\bin\Debug\H4-inherit.pdb
+c:\users\klaus ke\documents\visual studio 2012\Projects\H4-inherit\H4-inherit\obj\Debug\H4-inherit.csprojResolveAssemblyReference.cache
+c:\users\klaus ke\documents\visual studio 2012\Projects\H4-inherit\H4-inherit\obj\Debug\H4-inherit.exe
+c:\users\klaus ke\documents\visual studio 2012\Projects\H4-inherit\H4-inherit\obj\Debug\H4-inherit.pdb

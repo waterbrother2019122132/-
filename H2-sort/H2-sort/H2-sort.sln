@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H2-sort", "H2-sort\H2-sort.csproj", "{EBBD872B-24B3-4A05-A43A-FECEA8EFAD87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBBD872B-24B3-4A05-A43A-FECEA8EFAD87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBD872B-24B3-4A05-A43A-FECEA8EFAD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBD872B-24B3-4A05-A43A-FECEA8EFAD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBD872B-24B3-4A05-A43A-FECEA8EFAD87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

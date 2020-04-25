@@ -1,0 +1,9 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190308\App_2_Hello\App_2_Hello\bin\Debug\App_2_Hello.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190308\App_2_Hello\App_2_Hello\bin\Debug\App_2_Hello.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190308\App_2_Hello\App_2_Hello\bin\Debug\App_2_Hello.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190308\App_2_Hello\App_2_Hello\obj\Debug\App_2_Hello.csprojResolveAssemblyReference.cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190308\App_2_Hello\App_2_Hello\obj\Debug\App_2_Hello.Form1.resources
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190308\App_2_Hello\App_2_Hello\obj\Debug\App_2_Hello.Properties.Resources.resources
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190308\App_2_Hello\App_2_Hello\obj\Debug\App_2_Hello.csproj.GenerateResource.Cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190308\App_2_Hello\App_2_Hello\obj\Debug\App_2_Hello.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190308\App_2_Hello\App_2_Hello\obj\Debug\App_2_Hello.pdb

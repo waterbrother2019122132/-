@@ -1,0 +1,11 @@
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_38_E7_File_2\App_38_E7_File_2\obj\Debug\App_38_E7_File_2.csprojAssemblyReference.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_38_E7_File_2\App_38_E7_File_2\obj\Debug\App_38_E7_File_2.Form1.resources
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_38_E7_File_2\App_38_E7_File_2\obj\Debug\App_38_E7_File_2.Properties.Resources.resources
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_38_E7_File_2\App_38_E7_File_2\obj\Debug\App_38_E7_File_2.csproj.GenerateResource.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_38_E7_File_2\App_38_E7_File_2\obj\Debug\App_38_E7_File_2.csproj.CoreCompileInputs.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_38_E7_File_2\App_38_E7_File_2\bin\Debug\App_38_E7_File_2.exe.config
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_38_E7_File_2\App_38_E7_File_2\bin\Debug\App_38_E7_File_2.exe
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_38_E7_File_2\App_38_E7_File_2\bin\Debug\App_38_E7_File_2.pdb
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_38_E7_File_2\App_38_E7_File_2\obj\Debug\App_38_E7_File_2.exe
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_38_E7_File_2\App_38_E7_File_2\obj\Debug\App_38_E7_File_2.pdb
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_38_E7_File_2\App_38_E7_File_2\obj\Debug\App_38_E7_File_2.添加收支.resources

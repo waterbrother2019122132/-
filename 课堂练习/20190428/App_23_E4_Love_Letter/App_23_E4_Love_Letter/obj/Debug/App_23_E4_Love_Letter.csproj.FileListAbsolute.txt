@@ -1,0 +1,6 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\App_23_E4_Love_Letter\App_23_E4_Love_Letter\bin\Debug\App_23_E4_Love_Letter.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\App_23_E4_Love_Letter\App_23_E4_Love_Letter\obj\Debug\App_23_E4_Love_Letter.csprojResolveAssemblyReference.cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\App_23_E4_Love_Letter\App_23_E4_Love_Letter\bin\Debug\App_23_E4_Love_Letter.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\App_23_E4_Love_Letter\App_23_E4_Love_Letter\bin\Debug\App_23_E4_Love_Letter.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\App_23_E4_Love_Letter\App_23_E4_Love_Letter\obj\Debug\App_23_E4_Love_Letter.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\App_23_E4_Love_Letter\App_23_E4_Love_Letter\obj\Debug\App_23_E4_Love_Letter.pdb

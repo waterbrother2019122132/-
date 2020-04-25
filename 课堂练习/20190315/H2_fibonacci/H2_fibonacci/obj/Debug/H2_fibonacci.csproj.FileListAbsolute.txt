@@ -1,0 +1,9 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190315\H2_fibonacci\H2_fibonacci\bin\Debug\H2_fibonacci.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190315\H2_fibonacci\H2_fibonacci\bin\Debug\H2_fibonacci.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190315\H2_fibonacci\H2_fibonacci\bin\Debug\H2_fibonacci.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190315\H2_fibonacci\H2_fibonacci\obj\Debug\H2_fibonacci.csprojResolveAssemblyReference.cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190315\H2_fibonacci\H2_fibonacci\obj\Debug\H2_fibonacci.Form1.resources
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190315\H2_fibonacci\H2_fibonacci\obj\Debug\H2_fibonacci.Properties.Resources.resources
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190315\H2_fibonacci\H2_fibonacci\obj\Debug\H2_fibonacci.csproj.GenerateResource.Cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190315\H2_fibonacci\H2_fibonacci\obj\Debug\H2_fibonacci.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190315\H2_fibonacci\H2_fibonacci\obj\Debug\H2_fibonacci.pdb

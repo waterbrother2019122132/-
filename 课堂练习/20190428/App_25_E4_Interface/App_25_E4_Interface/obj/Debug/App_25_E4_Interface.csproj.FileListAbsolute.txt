@@ -1,0 +1,6 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\App_25_E4_Interface\App_25_E4_Interface\bin\Debug\App_25_E4_Interface.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\App_25_E4_Interface\App_25_E4_Interface\bin\Debug\App_25_E4_Interface.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\App_25_E4_Interface\App_25_E4_Interface\bin\Debug\App_25_E4_Interface.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\App_25_E4_Interface\App_25_E4_Interface\obj\Debug\App_25_E4_Interface.csprojResolveAssemblyReference.cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\App_25_E4_Interface\App_25_E4_Interface\obj\Debug\App_25_E4_Interface.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\App_25_E4_Interface\App_25_E4_Interface\obj\Debug\App_25_E4_Interface.pdb

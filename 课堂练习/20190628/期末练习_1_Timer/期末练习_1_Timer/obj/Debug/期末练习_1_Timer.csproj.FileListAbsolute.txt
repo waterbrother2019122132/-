@@ -1,0 +1,10 @@
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190628\期末练习_1_Timer\期末练习_1_Timer\bin\Debug\期末练习_1_Timer.exe.config
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190628\期末练习_1_Timer\期末练习_1_Timer\bin\Debug\期末练习_1_Timer.exe
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190628\期末练习_1_Timer\期末练习_1_Timer\bin\Debug\期末练习_1_Timer.pdb
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190628\期末练习_1_Timer\期末练习_1_Timer\obj\Debug\期末练习_1_Timer.csprojAssemblyReference.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190628\期末练习_1_Timer\期末练习_1_Timer\obj\Debug\期末练习_1_Timer.Form1.resources
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190628\期末练习_1_Timer\期末练习_1_Timer\obj\Debug\期末练习_1_Timer.Properties.Resources.resources
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190628\期末练习_1_Timer\期末练习_1_Timer\obj\Debug\期末练习_1_Timer.csproj.GenerateResource.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190628\期末练习_1_Timer\期末练习_1_Timer\obj\Debug\期末练习_1_Timer.csproj.CoreCompileInputs.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190628\期末练习_1_Timer\期末练习_1_Timer\obj\Debug\期末练习_1_Timer.exe
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190628\期末练习_1_Timer\期末练习_1_Timer\obj\Debug\期末练习_1_Timer.pdb

@@ -1,0 +1,6 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190412\App_19_E4_Override\App_19_E4_Override\bin\Debug\App_19_E4_Override.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190412\App_19_E4_Override\App_19_E4_Override\bin\Debug\App_19_E4_Override.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190412\App_19_E4_Override\App_19_E4_Override\bin\Debug\App_19_E4_Override.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190412\App_19_E4_Override\App_19_E4_Override\obj\Debug\App_19_E4_Override.csprojResolveAssemblyReference.cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190412\App_19_E4_Override\App_19_E4_Override\obj\Debug\App_19_E4_Override.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190412\App_19_E4_Override\App_19_E4_Override\obj\Debug\App_19_E4_Override.pdb

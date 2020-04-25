@@ -1,0 +1,5 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190412\H4_Override\H4_Override\bin\Debug\H4_Override.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190412\H4_Override\H4_Override\bin\Debug\H4_Override.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190412\H4_Override\H4_Override\bin\Debug\H4_Override.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190412\H4_Override\H4_Override\obj\Debug\H4_Override.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190412\H4_Override\H4_Override\obj\Debug\H4_Override.pdb

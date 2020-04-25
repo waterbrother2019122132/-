@@ -1,0 +1,6 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190329\H4_static\H4_static\bin\Debug\H4_static.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190329\H4_static\H4_static\bin\Debug\H4_static.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190329\H4_static\H4_static\bin\Debug\H4_static.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190329\H4_static\H4_static\obj\Debug\H4_static.csprojResolveAssemblyReference.cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190329\H4_static\H4_static\obj\Debug\H4_static.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190329\H4_static\H4_static\obj\Debug\H4_static.pdb

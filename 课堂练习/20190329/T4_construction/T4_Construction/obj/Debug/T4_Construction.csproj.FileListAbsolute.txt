@@ -1,0 +1,6 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190329\T4_Construction\T4_Construction\bin\Debug\T4_Construction.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190329\T4_Construction\T4_Construction\bin\Debug\T4_Construction.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190329\T4_Construction\T4_Construction\bin\Debug\T4_Construction.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190329\T4_Construction\T4_Construction\obj\Debug\T4_Construction.csprojResolveAssemblyReference.cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190329\T4_Construction\T4_Construction\obj\Debug\T4_Construction.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190329\T4_Construction\T4_Construction\obj\Debug\T4_Construction.pdb

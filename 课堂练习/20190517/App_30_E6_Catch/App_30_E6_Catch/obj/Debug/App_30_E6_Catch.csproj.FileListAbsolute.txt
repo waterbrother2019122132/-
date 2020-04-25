@@ -1,0 +1,22 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\bin\Debug\App_30_E6_Catch.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\bin\Debug\App_30_E6_Catch.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\bin\Debug\App_30_E6_Catch.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\obj\Debug\App_30_E6_Catch.csprojResolveAssemblyReference.cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\obj\Debug\App_30_E6_Catch.Form1.resources
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\obj\Debug\App_30_E6_Catch.Properties.Resources.resources
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\obj\Debug\App_30_E6_Catch.csproj.GenerateResource.Cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\obj\Debug\App_30_E6_Catch.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\obj\Debug\App_30_E6_Catch.pdb
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\bin\Debug\App_30_E6_Catch.exe.config
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\obj\Debug\App_30_E6_Catch.exe
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\obj\Debug\App_30_E6_Catch.pdb
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\bin\Debug\App_30_E6_Catch.exe.config
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\bin\Debug\App_30_E6_Catch.exe
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\bin\Debug\App_30_E6_Catch.pdb
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\obj\Debug\App_30_E6_Catch.csprojAssemblyReference.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\obj\Debug\App_30_E6_Catch.Form1.resources
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\obj\Debug\App_30_E6_Catch.Properties.Resources.resources
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\obj\Debug\App_30_E6_Catch.csproj.GenerateResource.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\obj\Debug\App_30_E6_Catch.csproj.CoreCompileInputs.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\obj\Debug\App_30_E6_Catch.exe
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190517\App_30_E6_Catch\App_30_E6_Catch\obj\Debug\App_30_E6_Catch.pdb

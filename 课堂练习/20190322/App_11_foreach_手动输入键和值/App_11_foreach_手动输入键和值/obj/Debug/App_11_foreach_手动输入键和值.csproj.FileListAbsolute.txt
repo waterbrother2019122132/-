@@ -1,0 +1,5 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_11_foreach_手动输入键和值\App_11_foreach_手动输入键和值\bin\Debug\App_11_foreach_手动输入键和值.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_11_foreach_手动输入键和值\App_11_foreach_手动输入键和值\bin\Debug\App_11_foreach_手动输入键和值.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_11_foreach_手动输入键和值\App_11_foreach_手动输入键和值\bin\Debug\App_11_foreach_手动输入键和值.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_11_foreach_手动输入键和值\App_11_foreach_手动输入键和值\obj\Debug\App_11_foreach_手动输入键和值.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_11_foreach_手动输入键和值\App_11_foreach_手动输入键和值\obj\Debug\App_11_foreach_手动输入键和值.pdb

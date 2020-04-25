@@ -1,0 +1,18 @@
+C:\Users\Giovanni_GuoJY\AppData\Local\Temporary Projects\H6_Common_Control\bin\Debug\H6_Common_Control.exe.config
+C:\Users\Giovanni_GuoJY\AppData\Local\Temporary Projects\H6_Common_Control\bin\Debug\H6_Common_Control.exe
+C:\Users\Giovanni_GuoJY\AppData\Local\Temporary Projects\H6_Common_Control\bin\Debug\H6_Common_Control.pdb
+C:\Users\Giovanni_GuoJY\AppData\Local\Temporary Projects\H6_Common_Control\obj\Debug\H6_Common_Control.csprojResolveAssemblyReference.cache
+C:\Users\Giovanni_GuoJY\AppData\Local\Temporary Projects\H6_Common_Control\obj\Debug\H6_Common_Control.Form1.resources
+C:\Users\Giovanni_GuoJY\AppData\Local\Temporary Projects\H6_Common_Control\obj\Debug\H6_Common_Control.Properties.Resources.resources
+C:\Users\Giovanni_GuoJY\AppData\Local\Temporary Projects\H6_Common_Control\obj\Debug\H6_Common_Control.csproj.GenerateResource.Cache
+C:\Users\Giovanni_GuoJY\AppData\Local\Temporary Projects\H6_Common_Control\obj\Debug\H6_Common_Control.exe
+C:\Users\Giovanni_GuoJY\AppData\Local\Temporary Projects\H6_Common_Control\obj\Debug\H6_Common_Control.pdb
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\H6_Common_Control\H6_Common_Control\bin\Debug\H6_Common_Control.exe.config
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\H6_Common_Control\H6_Common_Control\obj\Debug\H6_Common_Control.exe
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\H6_Common_Control\H6_Common_Control\obj\Debug\H6_Common_Control.pdb
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\H6_Common_Control\H6_Common_Control\bin\Debug\H6_Common_Control.exe
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\H6_Common_Control\H6_Common_Control\bin\Debug\H6_Common_Control.pdb
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\H6_Common_Control\H6_Common_Control\obj\Debug\H6_Common_Control.csprojResolveAssemblyReference.cache
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\H6_Common_Control\H6_Common_Control\obj\Debug\H6_Common_Control.Form1.resources
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\H6_Common_Control\H6_Common_Control\obj\Debug\H6_Common_Control.Properties.Resources.resources
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\H6_Common_Control\H6_Common_Control\obj\Debug\H6_Common_Control.csproj.GenerateResource.Cache

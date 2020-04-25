@@ -1,0 +1,6 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_10_foreach\App_10_foreach\bin\Debug\App_10_foreach.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_10_foreach\App_10_foreach\bin\Debug\App_10_foreach.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_10_foreach\App_10_foreach\bin\Debug\App_10_foreach.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_10_foreach\App_10_foreach\obj\Debug\App_10_foreach.csprojResolveAssemblyReference.cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_10_foreach\App_10_foreach\obj\Debug\App_10_foreach.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\App_10_foreach\App_10_foreach\obj\Debug\App_10_foreach.pdb

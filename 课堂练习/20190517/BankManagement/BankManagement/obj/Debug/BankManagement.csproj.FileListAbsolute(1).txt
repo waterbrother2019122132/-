@@ -1,0 +1,6 @@
+D:\2018122112\BankManagement\BankManagement\bin\Debug\BankManagement.exe.config
+D:\2018122112\BankManagement\BankManagement\obj\Debug\BankManagement.csprojResolveAssemblyReference.cache
+D:\2018122112\BankManagement\BankManagement\bin\Debug\BankManagement.exe
+D:\2018122112\BankManagement\BankManagement\bin\Debug\BankManagement.pdb
+D:\2018122112\BankManagement\BankManagement\obj\Debug\BankManagement.exe
+D:\2018122112\BankManagement\BankManagement\obj\Debug\BankManagement.pdb

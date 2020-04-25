@@ -1,0 +1,5 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\H4_Interface\H4_Interface\bin\Debug\H4_Interface.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\H4_Interface\H4_Interface\bin\Debug\H4_Interface.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\H4_Interface\H4_Interface\bin\Debug\H4_Interface.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\H4_Interface\H4_Interface\obj\Debug\H4_Interface.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190428\H4_Interface\H4_Interface\obj\Debug\H4_Interface.pdb

@@ -1,0 +1,20 @@
+C:\Users\Giovanni_GuoJY\AppData\Local\Temporary Projects\App_36_文本编辑器\bin\Debug\App_36_文本编辑器.exe.config
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\bin\Debug\App_36_文本编辑器.exe.config
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\bin\Debug\App_36_文本编辑器.exe
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\bin\Debug\App_36_文本编辑器.pdb
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\obj\Debug\App_36_文本编辑器.csprojResolveAssemblyReference.cache
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\obj\Debug\App_36_文本编辑器.Form1.resources
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\obj\Debug\App_36_文本编辑器.Properties.Resources.resources
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\obj\Debug\App_36_文本编辑器.csproj.GenerateResource.Cache
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\obj\Debug\App_36_文本编辑器.exe
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\obj\Debug\App_36_文本编辑器.pdb
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\bin\Debug\App_36_文本编辑器.exe.config
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\bin\Debug\App_36_文本编辑器.exe
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\bin\Debug\App_36_文本编辑器.pdb
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\obj\Debug\App_36_文本编辑器.csprojAssemblyReference.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\obj\Debug\App_36_文本编辑器.Form1.resources
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\obj\Debug\App_36_文本编辑器.Properties.Resources.resources
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\obj\Debug\App_36_文本编辑器.csproj.GenerateResource.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\obj\Debug\App_36_文本编辑器.csproj.CoreCompileInputs.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\obj\Debug\App_36_文本编辑器.exe
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190614\App_36_文本编辑器\App_36_文本编辑器\obj\Debug\App_36_文本编辑器.pdb

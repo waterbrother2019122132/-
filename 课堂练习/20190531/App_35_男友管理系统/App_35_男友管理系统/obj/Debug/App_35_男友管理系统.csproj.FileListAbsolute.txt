@@ -1,0 +1,26 @@
+C:\Users\Giovanni_GuoJY\AppData\Local\Temporary Projects\App_35_男友管理系统\bin\Debug\App_35_男友管理系统.exe.config
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\bin\Debug\App_35_男友管理系统.exe.config
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.Form1.resources
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.Properties.Resources.resources
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.删除男友.resources
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.排序输出.resources
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.新建男友.resources
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.csproj.GenerateResource.Cache
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\bin\Debug\App_35_男友管理系统.exe
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\bin\Debug\App_35_男友管理系统.pdb
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.exe
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.pdb
+Y:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.csprojResolveAssemblyReference.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\bin\Debug\App_35_男友管理系统.exe.config
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\bin\Debug\App_35_男友管理系统.exe
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\bin\Debug\App_35_男友管理系统.pdb
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.csprojAssemblyReference.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.Form1.resources
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.Properties.Resources.resources
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.删除男友.resources
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.排序输出.resources
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.新建男友.resources
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.csproj.GenerateResource.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.csproj.CoreCompileInputs.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.exe
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190531\App_35_男友管理系统\App_35_男友管理系统\obj\Debug\App_35_男友管理系统.pdb

@@ -1,0 +1,7 @@
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_37_E7_File_1\App_37_E7_File_1\bin\Debug\App_37_E7_File_1.exe.config
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_37_E7_File_1\App_37_E7_File_1\bin\Debug\App_37_E7_File_1.exe
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_37_E7_File_1\App_37_E7_File_1\bin\Debug\App_37_E7_File_1.pdb
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_37_E7_File_1\App_37_E7_File_1\obj\Debug\App_37_E7_File_1.csprojAssemblyReference.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_37_E7_File_1\App_37_E7_File_1\obj\Debug\App_37_E7_File_1.csproj.CoreCompileInputs.cache
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_37_E7_File_1\App_37_E7_File_1\obj\Debug\App_37_E7_File_1.exe
+C:\Documents\学习\C# 面向对象程序设计\课堂练习\20190621\App_37_E7_File_1\App_37_E7_File_1\obj\Debug\App_37_E7_File_1.pdb

@@ -1,0 +1,6 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190510\App_26_E4_Common_Class\App_26_E4_Common_Class\bin\Debug\App_26_E4_Common_Class.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190510\App_26_E4_Common_Class\App_26_E4_Common_Class\bin\Debug\App_26_E4_Common_Class.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190510\App_26_E4_Common_Class\App_26_E4_Common_Class\bin\Debug\App_26_E4_Common_Class.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190510\App_26_E4_Common_Class\App_26_E4_Common_Class\obj\Debug\App_26_E4_Common_Class.csprojResolveAssemblyReference.cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190510\App_26_E4_Common_Class\App_26_E4_Common_Class\obj\Debug\App_26_E4_Common_Class.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190510\App_26_E4_Common_Class\App_26_E4_Common_Class\obj\Debug\App_26_E4_Common_Class.pdb

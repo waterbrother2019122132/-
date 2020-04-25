@@ -1,0 +1,6 @@
+c:\users\klaus ke\documents\visual studio 2012\Projects\H2-sort\H2-sort\bin\Debug\H2-sort.exe.config
+c:\users\klaus ke\documents\visual studio 2012\Projects\H2-sort\H2-sort\bin\Debug\H2-sort.exe
+c:\users\klaus ke\documents\visual studio 2012\Projects\H2-sort\H2-sort\bin\Debug\H2-sort.pdb
+c:\users\klaus ke\documents\visual studio 2012\Projects\H2-sort\H2-sort\obj\Debug\H2-sort.csprojResolveAssemblyReference.cache
+c:\users\klaus ke\documents\visual studio 2012\Projects\H2-sort\H2-sort\obj\Debug\H2-sort.exe
+c:\users\klaus ke\documents\visual studio 2012\Projects\H2-sort\H2-sort\obj\Debug\H2-sort.pdb

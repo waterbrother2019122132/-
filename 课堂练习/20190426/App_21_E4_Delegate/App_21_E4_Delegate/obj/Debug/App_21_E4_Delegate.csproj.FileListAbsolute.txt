@@ -1,0 +1,6 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190426\App_21_E4_Delegate\App_21_E4_Delegate\bin\Debug\App_21_E4_Delegate.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190426\App_21_E4_Delegate\App_21_E4_Delegate\bin\Debug\App_21_E4_Delegate.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190426\App_21_E4_Delegate\App_21_E4_Delegate\bin\Debug\App_21_E4_Delegate.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190426\App_21_E4_Delegate\App_21_E4_Delegate\obj\Debug\App_21_E4_Delegate.csprojResolveAssemblyReference.cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190426\App_21_E4_Delegate\App_21_E4_Delegate\obj\Debug\App_21_E4_Delegate.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190426\App_21_E4_Delegate\App_21_E4_Delegate\obj\Debug\App_21_E4_Delegate.pdb

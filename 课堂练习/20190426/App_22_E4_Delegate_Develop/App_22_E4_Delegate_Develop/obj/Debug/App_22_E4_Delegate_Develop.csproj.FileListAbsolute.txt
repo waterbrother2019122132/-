@@ -1,0 +1,6 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190426\App_22_E4_Delegate_Develop\App_22_E4_Delegate_Develop\bin\Debug\App_22_E4_Delegate_Develop.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190426\App_22_E4_Delegate_Develop\App_22_E4_Delegate_Develop\bin\Debug\App_22_E4_Delegate_Develop.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190426\App_22_E4_Delegate_Develop\App_22_E4_Delegate_Develop\bin\Debug\App_22_E4_Delegate_Develop.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190426\App_22_E4_Delegate_Develop\App_22_E4_Delegate_Develop\obj\Debug\App_22_E4_Delegate_Develop.csprojResolveAssemblyReference.cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190426\App_22_E4_Delegate_Develop\App_22_E4_Delegate_Develop\obj\Debug\App_22_E4_Delegate_Develop.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190426\App_22_E4_Delegate_Develop\App_22_E4_Delegate_Develop\obj\Debug\App_22_E4_Delegate_Develop.pdb

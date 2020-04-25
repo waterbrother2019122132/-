@@ -1,0 +1,6 @@
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\H3_score\H3_score\bin\Debug\H3_score.exe.config
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\H3_score\H3_score\bin\Debug\H3_score.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\H3_score\H3_score\bin\Debug\H3_score.pdb
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\H3_score\H3_score\obj\Debug\H3_score.csprojResolveAssemblyReference.cache
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\H3_score\H3_score\obj\Debug\H3_score.exe
+Z:\学校\学习\2019.3 大学一年级下学期\C# 面向对象程序设计\课堂练习\20190322\H3_score\H3_score\obj\Debug\H3_score.pdb
